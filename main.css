@@ -107,11 +107,11 @@ body #container {
 
     }
 
-    a:link {
+/*     a:link {
         color: white;
-    }
+    } */
 
-    a:visited {
+    .abtn a:visited {
         color: white;
     }
 
